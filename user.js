@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  try to take over the world!
-// @author       Shadow
+// @author       You
 // @match        www.google.com/search?*
 // @match        cn.bing.com/search?*
 // @match        www.baidu.com/s?*
