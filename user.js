@@ -19,7 +19,6 @@
         ,'so.php'
         ,'.xp.cn'
         ,'csdn.net'
-        ,'blog.csdn.net'
         ,'voidcn.com'
         ,'voidcc.com'
         ,'codeday.me'
