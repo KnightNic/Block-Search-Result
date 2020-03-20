@@ -72,6 +72,10 @@
         ,'islongs.com'
         ,'jiechunqiu.com'
         ,'foufu.com'
+        ,'filemagic.com'
+        ,'reviversoft.com'
+        ,'fileinfo.com'
+        ,'filext.com'
     ];
 
     var url = document.location.host;
