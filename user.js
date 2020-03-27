@@ -76,6 +76,9 @@
         ,'reviversoft.com'
         ,'fileinfo.com'
         ,'filext.com'
+        ,'solvusoft.com'
+        ,'filedesc.com'
+        ,'fileviewpro.com'
     ];
 
     var url = document.location.host;
