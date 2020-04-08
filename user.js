@@ -79,6 +79,8 @@
         ,'solvusoft.com'
         ,'filedesc.com'
         ,'fileviewpro.com'
+        ,'chjblcu.cn'
+        ,'lanzhouyangsheng.com'
     ];
 
     var url = document.location.host;
